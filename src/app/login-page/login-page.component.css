@@ -4,7 +4,7 @@ h1 {
   color: gray;
 }
 
-.ui-card {
+.logincard .ui-card {
   max-width: 300px;
 
   margin: auto;
